@@ -1,3 +1,6 @@
+//RaLcql7muXSjkldjKSRszB8dUTWxkTduHu1Mylf8oJw
+//api key 2022-10-06 end
+
 let news = [];
 let page = 1;
 let total_pages = 0;
